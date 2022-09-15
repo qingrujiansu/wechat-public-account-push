@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "fc0b070b2e5d7ee3b6aaa6890f0a8a1c",
 
     // 模板消息id
-    TEMPLATE_ID: "BRhTZ6Svh93xtB5Wvmyu_Ppi3YBb2eIMc57jquE8abg",
+    TEMPLATE_ID: "	R3G6ACQAr2WOAANlqYKNZ04-l6qf3NMCxoZFWQySEeo",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "XbiYKdmK7fT-ZzQXdV34TJMnpMJAotPDBchx2uMh8xE",
@@ -25,7 +25,6 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '养念念和喵', id: "o9hvX5nBz9yrBktS_B671pyQ7Epg"}, 
       {name:'清如笺素',id:"o9hvX5mfJCjGzyl2iBbB84XpYhic"}
       //可以填多个
     ],
