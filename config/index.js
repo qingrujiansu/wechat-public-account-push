@@ -25,8 +25,8 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name: '养念念和喵', id: "o9hvX5nBz9yrBktS_B671pyQ7Epg"}, 
-      {name:'清如笺素',id:"o9hvX5mfJCjGzyl2iBbB84XpYhic"}
+      {name: '养念念和喵', id: "BRhTZ6Svh93xtB5Wvmyu_Ppi3YBb2eIMc57jquE8abg"}, 
+      {name:'清如笺素',id:"BRhTZ6Svh93xtB5Wvmyu_Ppi3YBb2eIMc57jquE8abgc"}
       //可以填多个
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
@@ -71,7 +71,7 @@ export const config = {
 
     // 好文节选的内容类型
     // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 ""
-    LITERARY_PREFERENCE: ""
+    LITERARY_PREFERENCE: "网络"
 
 
     }
