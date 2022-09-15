@@ -25,8 +25,8 @@ export const config = {
     //   id: "wxafasdasdd-zxfvsdfd"
     // }]
     USERS: [
-      {name:'清如笺素',id:"o9hvX5mfJCjGzyl2iBbB84XpYhic"}
-      //可以填多个
+      {name:'清如笺素',
+       id:"o9hvX5mfJCjGzyl2iBbB84XpYhic"}
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
     CALLBACK_USERS: [
