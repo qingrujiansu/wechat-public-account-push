@@ -26,6 +26,7 @@ export const config = {
     // }]
     USERS: [
       {name: '养念念和喵', id: "o9hvX5nBz9yrBktS_B671pyQ7Epg"}, 
+      {name:'清如笺素',id:"o9hvX5mfJCjGzyl2iBbB84XpYhic"}
       //可以填多个
     ],
     // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
